@@ -11,3 +11,4 @@ function mystery(a) {
     else return a[0];
 }
 ```
+This function returns the largest value in an array.
